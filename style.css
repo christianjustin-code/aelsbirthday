@@ -396,7 +396,7 @@ button:hover {
   transform: scale(1.05);
   opacity: 0.9;
 }
-=======
+
 /* Importing Google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,400;1,500&display=swap');
 
@@ -783,4 +783,3 @@ button:hover {
   transform: scale(1.05);
   opacity: 0.9;
 }
->>>>>>> c0071d0 (up)
